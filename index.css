@@ -1,6 +1,8 @@
 <! css page for index.html >
 
-body {
-  font-family: "Lucida Console";
-  color: black;
+
+
+h1, h2, p{
+  style="font-family:'Courier New'";
+  color=black;
 }
