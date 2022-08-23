@@ -1,1 +1,6 @@
-style sheet for index.html
+<! css page for index.html >
+
+body {
+  font-family: "Lucida Console";
+  color: black;
+}
