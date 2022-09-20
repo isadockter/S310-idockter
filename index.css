@@ -1,8 +1,5 @@
 <! css page for index.html >
 
-
-
-h1, h2, p{
-  style="font-family:'Courier New'";
-  color=black;
+.h1, h2, h3, h4, h5, h6, p {
+  font-family: "Lucida Console", "Courier New", monospace;
 }
