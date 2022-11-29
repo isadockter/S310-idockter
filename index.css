@@ -5,8 +5,7 @@ h1, h2, h3, h4, h5, h6, p, a {
 
 <-- header -->
 .header {
-  padding: 20px;
-  margin: 0px;
+  padding: 0px;
   text-align: center;
   background: #B68CB8;
   color: white;
