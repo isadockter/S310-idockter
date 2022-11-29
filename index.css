@@ -1,9 +1,11 @@
-h1, h2, h3, h4, h5, h6, p {
+<-- fonts -->
+h1, h2, h3, h4, h5, h6, p, a {
   font-family: Helvetica, sans-serif;
 }
 
+<-- header -->
 .header {
-  padding: 40px;
+  padding: 20px;
   text-align: center;
   background: #B68CB8;
   color: white;
